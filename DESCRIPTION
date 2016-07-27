@@ -1,0 +1,9 @@
+Package: GryPack
+Type: Package
+Title: A set of convenience functions
+Version: 0.1.0
+Author: Gustaf Rydevik
+Maintainer: Gustaf Rydevik <gustaf.rydevik@gmail.com>
+Description: Currently contains autolib, which lets you automatically download and load missing packages
+License: What license is it under?
+LazyData: TRUE
